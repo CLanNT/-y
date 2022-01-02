@@ -281,6 +281,15 @@
 .v .item .tag.investor {
   background-color: var(--color-pink);
 }
+.v .item .tag.visitor {
+  background-color: #855194;
+}
+.v .item .tag.admin {
+  background-color: #a77c59;
+}
+.v .item .tag.waifu {
+  background-color: #ed6ea0;
+}
 .v .item .at {
   color: var(--primary-color);
 }
