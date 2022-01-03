@@ -7,8 +7,8 @@
         <language>zh-CN</language>
         <pubDate>Mon, 03 Jan 2022 16:00:33 +0800</pubDate>
         <lastBuildDate>Mon, 03 Jan 2022 16:00:33 +0800</lastBuildDate>
-        <category>high到不行啊！</category>
         <category>图</category>
+        <category>high到不行啊！</category>
         <category>立flag</category>
         <category>非独立页</category>
         <category>woshishabi</category>
@@ -55,6 +55,7 @@
 &lt;p&gt;话说有红字 ERROR 是啥…&lt;span class=&#34;spoiler&#34; title=&#34;...&#34;&gt; 不管力&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;01_02.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;...&#34;&gt;好像没什么问题&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;red&#34;&gt;子页面的 css 路径有问题… 评论区样式一片混乱&lt;/span&gt;&lt;/p&gt;
 &lt;h3 id=&#34;其他没做完的flag环节&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#其他没做完的flag环节&#34;&gt;#&lt;/a&gt; 其他没做完的（&lt;ins class=&#34;dot&#34;&gt;flag 环节&lt;/ins&gt;）&lt;/h3&gt;
 &lt;p&gt;&lt;span class=&#34;orange&#34;&gt;得做好标签、分类&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span class=&#34;pink&#34;&gt;还想搞个图床&lt;/span&gt;&lt;/p&gt;
