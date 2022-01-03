@@ -3,7 +3,7 @@
 
 
 <!DOCTYPE html>
-<html lang="zh-cn">
+<html lang="zh-Hans">
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
@@ -66,7 +66,7 @@
         <nav id="nav">
   <div class="inner">
     <div class="toggle">
-      <div class="lines" aria-label="ナビゲーションバーの切り替え">
+      <div class="lines" aria-label="切换导航栏">
         <span class="line"></span>
         <span class="line"></span>
         <span class="line"></span>
@@ -89,12 +89,12 @@
       </div>
       <div id="imgs" class="pjax">
         <ul>
-          <li class="item" data-background-image="https://api.mz-moe.cn/img.php?248882"></li>
-          <li class="item" data-background-image="https://api.mz-moe.cn/img.php?72531"></li>
-          <li class="item" data-background-image="https://api.mz-moe.cn/img.php?258248"></li>
-          <li class="item" data-background-image="https://api.mz-moe.cn/img.php?62191"></li>
-          <li class="item" data-background-image="https://api.mz-moe.cn/img.php?341355"></li>
-          <li class="item" data-background-image="https://api.mz-moe.cn/img.php?495647"></li>
+          <li class="item" data-background-image="https://api.mz-moe.cn/img.php?986131"></li>
+          <li class="item" data-background-image="https://api.mz-moe.cn/img.php?357673"></li>
+          <li class="item" data-background-image="https://api.mz-moe.cn/img.php?51402"></li>
+          <li class="item" data-background-image="https://api.mz-moe.cn/img.php?439314"></li>
+          <li class="item" data-background-image="https://api.mz-moe.cn/img.php?569723"></li>
+          <li class="item" data-background-image="https://api.mz-moe.cn/img.php?823984"></li>
         </ul>
       </div>
     </header>
@@ -130,11 +130,11 @@
 
   <div class="panels">
     <div class="inner">
-      <div class="contents panel pjax" data-title="見出し">
+      <div class="contents panel pjax" data-title="文章目录">
       </div>
-      <div class="related panel pjax" data-title="関連記事">
+      <div class="related panel pjax" data-title="系列文章">
       </div>
-      <div class="overview panel" data-title="概要">
+      <div class="overview panel" data-title="站点概览">
         <div class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
   <img class="image" itemprop="image" alt="CLanNT·Ring"
       data-src="//cdn.jsdelivr.net/gh/clannt/QwQ@latest/images/yunru.jpg">
@@ -153,12 +153,12 @@
   
     
   <li class="item">
-    <a href="./" rel="section"><i class="ic i-home"></i>ホーム</a>
+    <a href="./" rel="section"><i class="ic i-home"></i>首页</a>
   </li>
 
     
   <li class="item">
-    <a href="./about/" rel="section"><i class="ic i-user"></i>プロフィール</a>
+    <a href="./about/" rel="section"><i class="ic i-user"></i>关于</a>
   </li>
 
     
@@ -193,12 +193,12 @@
         <div class="widgets">
           
 <div class="rpost pjax">
-  <h2>ランダムな記事</h2>
+  <h2>随机文章</h2>
   <ul>
   </ul>
 </div>
 <div>
-  <h2>最近のコメント</h2>
+  <h2>最新评论</h2>
   <ul class="leancloud-recent-comment"></ul>
 </div>
 
@@ -217,16 +217,16 @@
     <span class="post-meta-item-icon">
       <i class="ic i-chart-area"></i>
     </span>
-    <span title="単語の総数">0k 単語</span>
+    <span title="站点总字数">0k 字</span>
 
     <span class="post-meta-divider">|</span>
     <span class="post-meta-item-icon">
       <i class="ic i-coffee"></i>
     </span>
-    <span title="読書の合計時間">1 分</span>
+    <span title="站点阅读时长">1 分钟</span>
   </div>
   <div class="powered-by">
-    Powered by <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<a href="https://github.com/amehime/hexo-theme-shoka">Shoka</a>
+    基于 <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<a href="https://github.com/amehime/hexo-theme-shoka">Shoka</a>
   </div>
 </div>
 
@@ -241,12 +241,12 @@
       hide: "(´Д｀)大変だ！"
     },
     search : {
-      placeholder: "検索…",
-      empty: "「 ${query} 」については何も見つかりませんでした",
-      stats: "${time} ms以内に ${hits} 件の結果が見つかりました"
+      placeholder: "文章搜索",
+      empty: "关于 「 ${query} 」，什么也没搜到",
+      stats: "${time} ms 内找到 ${hits} 条结果"
     },
     valine: true,fancybox: true,
-    copyright: 'コピーは成功しました。 <br> 再印刷については、 ％s 契約に従ってください。',
+    copyright: '复制成功，转载请遵守 <i class="ic i-creative-commons"></i>BY-NC-SA 协议。',
     ignores : [
       function(uri) {
         return uri.includes('#');
