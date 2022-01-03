@@ -199,19 +199,7 @@ $.each = function(selector, callback, element) {
 
 
 Object.assign(HTMLElement.prototype, {
-  createChild: function(tag, obj, positon) {
-    var child = document.createElement(tag);
-    Object.assign(child, obj)
-    switch(positon) {
-      case 'after':
-        this.insertAfter(child)
-        break;
-      case 'replace':
-        this.innerHTML = ""
-      default:
-        this.appendChild(child)
-    }
-    return child
+  createChild:function(e,t,a){var n=document.createElement(e);Object.assign(n,t);switch(a){case"after":this.insertAfter(n);break;case"replace":this.innerHTML="";default:this.appendChild(n)}return n
   },
   wrap: function (obj) {
     var box = document.createElement('div');
