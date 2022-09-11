@@ -1451,7 +1451,6 @@ textarea {
   padding: 0.5em 1.25em;
   -webkit-user-select: none;
      -moz-user-select: none;
-      -ms-user-select: none;
           user-select: none;
   outline: none;
   will-change: auto;
@@ -1634,7 +1633,6 @@ textarea {
   letter-spacing: 0.05rem;
   -webkit-user-select: none;
      -moz-user-select: none;
-      -ms-user-select: none;
           user-select: none;
   color: var(--grey-4);
   display: table;
@@ -3860,7 +3858,6 @@ main >.inner {
   pointer-events: none;
   -webkit-user-select: none;
      -moz-user-select: none;
-      -ms-user-select: none;
           user-select: none;
 }
 .pace-inactive {
@@ -4542,7 +4539,6 @@ main >.inner {
 .katex-display {
   -webkit-user-select: all;
      -moz-user-select: all;
-      -ms-user-select: all;
           user-select: all;
 }
 .medium-zoom-overlay {
@@ -4788,7 +4784,6 @@ code,
 .code-container .meta {
   color: var(--color-yellow);
   -moz-user-select: none;
-  -ms-user-select: none;
   -webkit-user-select: none;
   user-select: none;
 }
@@ -5564,7 +5559,6 @@ span.label {
   padding-right: 5rem;
   -webkit-user-select: none;
      -moz-user-select: none;
-      -ms-user-select: none;
           user-select: none;
 }
 .player-info ol >li.current .info span:nth-child(2) {
