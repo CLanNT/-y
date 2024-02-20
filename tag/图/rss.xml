@@ -7,19 +7,20 @@
         <language>zh-CN</language>
         <pubDate>Mon, 03 Jan 2022 13:22:08 +0800</pubDate>
         <lastBuildDate>Mon, 03 Jan 2022 13:22:08 +0800</lastBuildDate>
-        <category>hello world again</category>
         <category>图</category>
+        <category>hello world again</category>
         <category>立flag</category>
         <category>非独立页</category>
         <category>woshishabi</category>
         <category>姬气人</category>
+        <category>记录</category>
         <item>
             <guid isPermalink="true">https://github.com/clannt/QwQ/2022/01/03/TEST/</guid>
             <title>車万api尝试</title>
             <link>https://github.com/clannt/QwQ/2022/01/03/TEST/</link>
             <category>图</category>
             <pubDate>Mon, 03 Jan 2022 13:22:08 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;https://img.paulzzh.tech/touhou/random&#34; alt=&#34;&#34; width=&#34;800px&#34;&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;https://img.paulzzh.com/touhou/random&#34; alt=&#34;&#34; width=&#34;800px&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;俺滴图图在这吗&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#俺滴图图在这吗&#34;&gt;#&lt;/a&gt; 俺滴图图在这吗&lt;/h1&gt;
  ]]></description>
         </item>
